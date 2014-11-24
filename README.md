@@ -14,3 +14,5 @@ git checkout -b BRANCHNAME
   create branch with given name
 git checkout --help
   help page for checkout command
+  
+  3:06pm
